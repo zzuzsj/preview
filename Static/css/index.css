@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+ul, li {
+  list-style: none; }
+
+.m-page {
+  background-color: #e60012;
+                          /*
+background-image: url("../img/hq_bg.png");
+background-repeat: no-repeat;*/
+  position: relative; }
+  .m-page .m-bg-img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%; }
+  .m-page .m-content {
+    padding-top: 24.8128rem;
+    width: 100%; }
+  .m-page .m-item-block {
+    font-size: 0;
+    text-align: center; }
+  .m-page .m-show {
+    display: block; }
+  .m-page .m-item-last {
+    font-size: 0;
+    text-align: center; }
+  .m-page .m-hq-info1 {
+    height: 6.336rem;
+    margin-bottom: 0.96rem;
+    position: relative;
+    z-index: 1;
+    width: 8rem; }
+  .m-page .m-hq-info2 {
+    height: 11.9466666667rem;
+    margin-top: -1.152rem;
+    position: relative;
+    z-index: 1;
+    width: 15.0186666667rem; }
+  .m-page .m-hq-info3 {
+    height: 11.2426666667rem;
+    margin-top: -1.4293333333rem;
+    position: relative;
+    z-index: 1;
+    width: 10.0266666667rem; }
+  .m-page .m-hq-info4 {
+    height: 15.7866666667rem;
+    margin-top: 2.8586666667rem;
+    position: relative;
+    z-index: 1;
+    width: 10.0053333333rem; }
+  .m-page .m-hq-info5 {
+    height: 15.1466666667rem;
+    margin-top: 2.2186666667rem;
+    margin-left: -0.5973333333rem;
+    position: relative;
+    z-index: 1;
+    width: 10.3253333333rem; }
+  .m-page .m-hq-info6 {
+    height: 15.7653333333rem;
+    margin-top: 2.2613333333rem;
+    margin-left: -0.1066666667rem;
+    position: relative;
+    z-index: 1;
+    width: 9.8346666667rem; }
+  .m-page .m-hq-info7 {
+    height: 16.32rem;
+    margin-top: 2.3466666667rem;
+    margin-left: -0.1066666667rem;
+    position: relative;
+    z-index: 1;
+    width: 9.8346666667rem; }
+  .m-page .m-hq-info8 {
+    height: 4.16rem;
+    margin-top: 4.5013333333rem;
+    margin-bottom: 4.3733333333rem;
+    position: relative;
+    z-index: 1;
+    width: 3.4133333333rem; }
+  .m-page .m-break:after {
+    content: "";
+    background: url("../img/hq_down.png");
+    background-repeat: space;
+    background-size: 100%;
+    display: block;
+    height: 0.4906666667rem;
+    margin: 0 auto 0.1066666667rem;
+    width: 0.6826666667rem; }
+  .m-page .m-item-info2 {
+    position: relative;
+    z-index: 999999999; }
+    .m-page .m-item-info2 .m-break-box {
+      position: relative;
+      z-index: 999999999;
+      margin-top: -0.896rem; }
+  .m-page .m-item-info3 .m-break-box {
+    position: relative;
+    z-index: 9;
+    margin-top: 3.0933333333rem; }
+  .m-page .m-item-info4 .m-break-box {
+    position: relative;
+    z-index: 9;
+    margin-top: 2.944rem; }
+  .m-page .m-item-info5 .m-break-box {
+    position: relative;
+    z-index: 9;
+    margin-top: 2.944rem; }
+  .m-page .m-item-info6 .m-break-box {
+    position: relative;
+    z-index: 9;
+    margin-top: 3.904rem; }
+  .m-page .m-item-info4 {
+    font-size: 0; }
+  .m-page .m-item-info5 {
+    font-size: 0; }
+  .m-page .m-item-info6 {
+    font-size: 0; }
