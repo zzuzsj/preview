@@ -5,6 +5,9 @@
 ul, li {
   list-style: none; }
 
+body{
+  background-image: url("../img/allbg.gif");
+}
 .m-page {
   background-color: #e60012;
   background-image: url("../img/bg.gif");
