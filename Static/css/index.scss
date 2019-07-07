@@ -10,9 +10,9 @@ ul,li{
 $base: (640/750)/40;//rem是最后算出结果的单位
 
 .m-page{
-  background-color: #e60012;/*
-  background-image: url("../img/hq_bg.png");
-  background-repeat: no-repeat;*/
+  background-color: #e60012;
+  background-image: url("../img/bg.gif");
+  /*background-repeat: no-repeat;*/
   position: relative;
   .m-bg-img{
     position: absolute;
