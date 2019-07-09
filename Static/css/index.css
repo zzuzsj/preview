@@ -7,10 +7,11 @@ ul, li {
 
 body{
   background-image: url("../img/allbg.gif");
+  background-size: 100% auto;
 }
 .m-page {
-  background-color: #e60012;
-  background-image: url("../img/bg.gif");
+  /*background-color: #e60012;*/
+  /*background-image: url("../img/bg.gif");*/
   /*background-repeat: no-repeat;*/
   position: relative; }
   .m-page .m-bg-img {
